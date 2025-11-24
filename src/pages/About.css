@@ -1,0 +1,125 @@
+/* Container */
+.container {
+  width: 1140px;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+/* Breadcrumb */
+.breadcrumb-section {
+  padding: 25px 0;
+  background: #f7f5f1;
+}
+
+.breadcrumb {
+  font-size: 16px;
+  color: #333;
+  text-align: center;
+}
+
+.breadcrumb a,
+.breadcrumb span {
+  text-decoration: none;
+  color: #949EA5;
+  margin-right: 5px;
+  line-height: 1;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+/* HERO SECTION */
+.about-hero {
+  text-align: center;
+  padding: 60px 0;
+}
+
+.about-hero h2 {
+  font-size: 70px;
+  display: block;
+  font-weight: 600;
+  line-height: 1.2;
+  /* letter-spacing: 1px; */
+  margin-bottom: 4px;
+  font-family: "Cinzel", serif;
+  color: #140C40;
+  margin-top: 0px;
+}
+
+.about-hero p {
+  color: #646D77;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.7;
+  padding-top: 20px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 15px;
+}
+
+/* Sliced image effect */
+.about-img {
+  display: grid;
+  grid-template-rows: repeat(6, 1fr);
+  gap: 2px;
+  height: 520px;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+/* OUR JOURNEY */
+
+.our-journey {
+  text-align: center;
+  padding: 60px 0;
+}
+
+.our-journey h2 {
+  font-size: 70px;
+  display: block;
+  font-weight: 600;
+  line-height: 1.2;
+  /* letter-spacing: 1px; */
+  margin-bottom: 4px;
+  font-family: "Cinzel", serif;
+  color: #140C40;
+  margin-top: 0px;
+  font-family: "Cinzel", serif;
+}
+
+.our-journey p {
+  color: #646D77;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.7;
+  padding-top: 20px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 15px;
+}
+
+/* 2020 */
+
+.twenty-twenty {
+  text-align: center;
+  padding: 60px 0;
+}
+
+.twenty-twenty h2 {
+  font-size: 70px;
+  display: block;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 4px;
+  font-family: "Cinzel", serif;
+  color: #140C40;
+  margin-top: 0px;
+  font-family: "Cinzel", serif;
+}
+
+.twenty-twenty p {
+  color: #646D77;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.7;
+  padding-top: 20px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 15px;
+}
